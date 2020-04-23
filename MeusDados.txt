@@ -1,3 +1,5 @@
 RA: 920113136
 Nome: Igor Dultra dos Santos
-Curso: Sistemas de Informação
+
+Data de Nascimento: 01/12/2002
+E-mail: igor.dultrasant@uni9.edu.br
